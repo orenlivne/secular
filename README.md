@@ -3,3 +3,5 @@ The secular equation arises in updating the eigenvalues of an $n \times n$ matri
 
 Applications:
 * Generating random graphs and calculating the Von Neumann Entropy.
+
+## References 
